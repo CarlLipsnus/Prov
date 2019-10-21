@@ -1,0 +1,19 @@
+html {
+	background-color: black;
+}
+
+	p{
+		color: red;
+	}
+	ol{
+		color: yellow;
+	}
+ul{
+	color: yellow;
+}
+h1{
+	color: red;
+}
+mark{
+	color: blue;
+}
